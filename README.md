@@ -1,2 +1,2 @@
 # open-api-project
-Open API Project
+Open API Project - Star Wars
