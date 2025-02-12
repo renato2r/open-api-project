@@ -1,5 +1,5 @@
 
-// Testando o fetch para garantir que está funcionando
+// Testing fetch with github
 fetch("https://api.github.com/users/renato2r/repos")
     .then(response => response.json())
     .then(data => console.log("API Response:", data))
